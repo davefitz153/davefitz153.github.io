@@ -15,7 +15,7 @@
         "height": 600,
         "scale": "linear",
         "feature": 0,
-        "topic": [
+        "topics": [
             "Income",
             "Population"
         ],
@@ -52,7 +52,7 @@
         "height": 600,
         "scale": "linear",
         "feature": 0,
-        "topic": [
+        "topics": [
             "Income"
         ],
         "geo_config": {
@@ -88,7 +88,7 @@
         "height": 600,
         "scale": "linear",
         "feature": 1,
-        "topic": [
+        "topics": [
             "Income"
         ],
         "geo_config": {
@@ -124,7 +124,7 @@
         "height": 600,
         "scale": "linear",
         "feature": 1,
-        "topic": [
+        "topics": [
             "Income"
         ],
         "geo_config": {
@@ -160,7 +160,7 @@
         "height": 600,
         "scale": "linear",
         "feature": 0,
-        "topic": [
+        "topics": [
             "Population"
         ],
         "geo_config": {
@@ -196,7 +196,7 @@
         "height": 600,
         "scale": "linear",
         "feature": 0,
-        "topic": [
+        "topics": [
             "Income"
         ],
         "geo_config": {
