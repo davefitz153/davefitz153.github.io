@@ -1,55 +1,61 @@
-{
-    "Income": [
-        {
-            "title": "Median Household Income by CBSA",
-            "feature": 0,
-            "visual_id": 9,
-            "image_file": "map_9.png",
-            "description": "Sure, we know about the high earning coastal metropolises, but which resort areas are pulling in the highest incomes?"
-        },
-        {
-            "title": "Median Household Income by County",
-            "feature": 0,
-            "visual_id": 10,
-            "image_file": "map_10.png",
-            "description": "Four of the top ten highest earning counties are in Virginia, home to many well paid government contractors."
-        },
-        {
-            "title": "The Highest and Lowest Income States",
-            "feature": 1,
-            "visual_id": 11,
-            "image_file": "map_11.png",
-            "description": "D.C. and several coastal states earn the most with median incomes nearly double some southeastern states. "
-        },
-        {
-            "title": "Income Inequality: Mapping the GINI Coefficient",
-            "feature": 1,
-            "visual_id": 13,
-            "image_file": "map_13.png",
-            "description": "The Upper Midwest generally has the least income inequality while areas of the Mississippi Delta, New York, and south Florida see larger disparities."
-        },
-        {
-            "title": "Poverty Rate by State",
-            "feature": 0,
-            "visual_id": 15,
-            "image_file": "map_15.png",
-            "description": "New Hampshire and Utah have the lowest poverty rates while the Mississippi Delta region struggles with higher poverty rates."
-        }
-    ],
-    "Population": [
-        {
-            "title": "Population by County",
-            "feature": 0,
-            "visual_id": 14,
-            "image_file": "map_14.png",
-            "description": "The most populated county is Los Angeles with a population nearly double that of second place Cook County."
-        },
-        {
-            "title": "Median Household Income by CBSA",
-            "feature": 0,
-            "visual_id": 9,
-            "image_file": "map_9.png",
-            "description": "Sure, we know about the high earning coastal metropolises, but which resort areas are pulling in the highest incomes?"
-        }
-    ]
-}
+[
+    {
+        "topic": "Income",
+        "visuals": [
+            {
+                "title": "Median Household Income by CBSA",
+                "feature": 0,
+                "visual_id": 9,
+                "image_file": "map_9.png",
+                "description": "Sure, we know about the high earning coastal metropolises, but which resort areas are pulling in the highest incomes?"
+            },
+            {
+                "title": "Median Household Income by County",
+                "feature": 0,
+                "visual_id": 10,
+                "image_file": "map_10.png",
+                "description": "Four of the top ten highest earning counties are in Virginia, home to many well paid government contractors."
+            },
+            {
+                "title": "The Highest and Lowest Income States",
+                "feature": 1,
+                "visual_id": 11,
+                "image_file": "map_11.png",
+                "description": "D.C. and several coastal states earn the most with median incomes nearly double some southeastern states. "
+            },
+            {
+                "title": "Income Inequality: Mapping the GINI Coefficient",
+                "feature": 1,
+                "visual_id": 13,
+                "image_file": "map_13.png",
+                "description": "The Upper Midwest generally has the least income inequality while areas of the Mississippi Delta, New York, and south Florida see larger disparities."
+            },
+            {
+                "title": "Poverty Rate by State",
+                "feature": 0,
+                "visual_id": 15,
+                "image_file": "map_15.png",
+                "description": "New Hampshire and Utah have the lowest poverty rates while the Mississippi Delta region struggles with higher poverty rates."
+            }
+        ]
+    },
+    {
+        "topic": "Population",
+        "visuals": [
+            {
+                "title": "Population by County",
+                "feature": 0,
+                "visual_id": 14,
+                "image_file": "map_14.png",
+                "description": "The most populated county is Los Angeles with a population nearly double that of second place Cook County."
+            },
+            {
+                "title": "Median Household Income by CBSA",
+                "feature": 0,
+                "visual_id": 9,
+                "image_file": "map_9.png",
+                "description": "Sure, we know about the high earning coastal metropolises, but which resort areas are pulling in the highest incomes?"
+            }
+        ]
+    }
+]
