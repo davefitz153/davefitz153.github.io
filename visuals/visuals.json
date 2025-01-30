@@ -1,1 +1,200 @@
-[{"visual_id": 15, "type": "map", "title": "Poverty Rate by State", "description": "New Hampshire and Utah have the lowest poverty rates while the Mississippi Delta region struggles with higher poverty rates.", "dataset_id": 15, "image_file": "map_15.png", "value_format": "Percent", "headers": ["State", "Poverty Rate"], "width": 1200, "height": 600, "scale": "linear", "feature": 0, "topics": ["Income"], "geo_config": {"geo_id": "g.id", "geo_file": "states.json", "geo_type": "state", "base_file": "states.json", "geo_label": "g.properties.name", "projection": "geoAlbersUsa"}, "scheme": {"label": "HEAT", "colors": ["#ffff00", "#ffa100", "#ff0000"]}}, {"visual_id": 14, "type": "map", "title": "Population by County", "description": "The most populated county is Los Angeles with a population nearly double that of second place Cook County.", "dataset_id": 13, "image_file": "map_14.png", "value_format": "Whole", "headers": ["County", "Population"], "width": 1200, "height": 600, "scale": "linear", "feature": 0, "topics": ["Population"], "geo_config": {"geo_id": "g.id", "geo_file": "counties.json", "geo_type": "county", "base_file": "states.json", "geo_label": "g.properties.name", "projection": "geoAlbersUsa"}, "scheme": {"label": "HEAT", "colors": ["#ffff00", "#ffa100", "#ff0000"]}}, {"visual_id": 13, "type": "map", "title": "Income Inequality: Mapping the GINI Coefficient", "description": "The Upper Midwest generally has the least income inequality while areas of the Mississippi Delta, New York, and south Florida see larger disparities.", "dataset_id": 12, "image_file": "map_13.png", "value_format": "", "headers": ["CBSA", "GINI Coefficient"], "width": 1200, "height": 600, "scale": "linear", "feature": 1, "topics": ["Income"], "geo_config": {"geo_id": "g.properties.GEOID", "geo_file": "cbsa.json", "geo_type": "cbsa", "base_file": "states.json", "geo_label": "g.properties.NAME", "projection": "geoAlbersUsa"}, "scheme": {"label": "TURQUOISE", "colors": ["#b6e3bb", "#30acb5", "#0a6aad"]}}, {"visual_id": 11, "type": "bar", "title": "The Highest and Lowest Income States", "description": "D.C. and several coastal states earn the most with median incomes nearly double some southeastern states. ", "dataset_id": 10, "image_file": "map_11.png", "value_format": "USDollar", "headers": ["State", "Median Household Income"], "width": 1200, "height": 600, "scale": "linear", "feature": 1, "topics": ["Income"], "geo_config": {"geo_id": "g.id", "geo_file": "states.json", "geo_type": "state", "base_file": "states.json", "geo_label": "g.properties.name", "projection": "geoAlbersUsa"}, "scheme": {"label": "HEAT", "colors": ["#ffff00", "#ffa100", "#ff0000"]}}, {"visual_id": 10, "type": "map", "title": "Median Household Income by County", "description": "Four of the top ten highest earning counties are in Virginia, home to many well paid government contractors.", "dataset_id": 9, "image_file": "map_10.png", "value_format": "USDollar", "headers": ["County", "Median Household Income"], "width": 1200, "height": 600, "scale": "linear", "feature": 0, "topics": ["Income"], "geo_config": {"geo_id": "g.properties.GEOID", "geo_file": "counties2.json", "geo_type": "county", "base_file": "states.json", "geo_label": "g.properties.NAME", "projection": "geoAlbersUsa"}, "scheme": {"label": "HEAT", "colors": ["#ffff00", "#ffa100", "#ff0000"]}}, {"visual_id": 9, "type": "map", "title": "Median Household Income by CBSA", "description": "Sure, we know about the high earning coastal metropolises, but which resort areas are pulling in the highest incomes?", "dataset_id": 8, "image_file": "map_9.png", "value_format": "USDollar", "headers": ["CBSA", "Median Household Income"], "width": 1200, "height": 600, "scale": "linear", "feature": 0, "topics": ["Income", "Population"], "geo_config": {"geo_id": "g.properties.GEOID", "geo_file": "cbsa.json", "geo_type": "cbsa", "base_file": "states.json", "geo_label": "g.properties.NAME", "projection": "geoAlbersUsa"}, "scheme": {"label": "HEAT", "colors": ["#ffff00", "#ffa100", "#ff0000"]}}]
+[
+    {
+        "visual_id": 9,
+        "type": "map",
+        "title": "Median Household Income by CBSA",
+        "description": "Sure, we know about the high earning coastal metropolises, but which resort areas are pulling in the highest incomes?",
+        "image_file": "map_9.png",
+        "dataset_id": 8,
+        "value_format": "USDollar",
+        "headers": [
+            "[\"CBSA\"",
+            " \"Median Household Income\"]"
+        ],
+        "width": 1200,
+        "height": 600,
+        "scale": "linear",
+        "feature": 0,
+        "geo_config": {
+            "geo_id": "g.properties.GEOID",
+            "geo_file": "cbsa.json",
+            "geo_type": "cbsa",
+            "base_file": "states.json",
+            "geo_label": "g.properties.NAME",
+            "projection": "geoAlbersUsa"
+        },
+        "scheme": {
+            "label": "HEAT",
+            "colors": [
+                "#ffff00",
+                "#ffa100",
+                "#ff0000"
+            ]
+        }
+    },
+    {
+        "visual_id": 10,
+        "type": "map",
+        "title": "Median Household Income by County",
+        "description": "Four of the top ten highest earning counties are in Virginia, home to many well paid government contractors.",
+        "image_file": "map_10.png",
+        "dataset_id": 9,
+        "value_format": "USDollar",
+        "headers": [
+            "[\"County\"",
+            " \"Median Household Income\"]"
+        ],
+        "width": 1200,
+        "height": 600,
+        "scale": "linear",
+        "feature": 0,
+        "geo_config": {
+            "geo_id": "g.properties.GEOID",
+            "geo_file": "counties2.json",
+            "geo_type": "county",
+            "base_file": "states.json",
+            "geo_label": "g.properties.NAME",
+            "projection": "geoAlbersUsa"
+        },
+        "scheme": {
+            "label": "HEAT",
+            "colors": [
+                "#ffff00",
+                "#ffa100",
+                "#ff0000"
+            ]
+        }
+    },
+    {
+        "visual_id": 11,
+        "type": "bar",
+        "title": "The Highest and Lowest Income States",
+        "description": "D.C. and several coastal states earn the most with median incomes nearly double some southeastern states. ",
+        "image_file": "map_11.png",
+        "dataset_id": 10,
+        "value_format": "USDollar",
+        "headers": [
+            "[\"State\"",
+            " \"Median Household Income\"]"
+        ],
+        "width": 1200,
+        "height": 600,
+        "scale": "linear",
+        "feature": 1,
+        "geo_config": {
+            "geo_id": "g.id",
+            "geo_file": "states.json",
+            "geo_type": "state",
+            "base_file": "states.json",
+            "geo_label": "g.properties.name",
+            "projection": "geoAlbersUsa"
+        },
+        "scheme": {
+            "label": "HEAT",
+            "colors": [
+                "#ffff00",
+                "#ffa100",
+                "#ff0000"
+            ]
+        }
+    },
+    {
+        "visual_id": 13,
+        "type": "map",
+        "title": "Income Inequality: Mapping the GINI Coefficient",
+        "description": "The Upper Midwest generally has the least income inequality while areas of the Mississippi Delta, New York, and south Florida see larger disparities.",
+        "image_file": "map_13.png",
+        "dataset_id": 12,
+        "value_format": "",
+        "headers": [
+            "[\"CBSA\"",
+            " \"GINI Coefficient\"]"
+        ],
+        "width": 1200,
+        "height": 600,
+        "scale": "linear",
+        "feature": 1,
+        "geo_config": {
+            "geo_id": "g.properties.GEOID",
+            "geo_file": "cbsa.json",
+            "geo_type": "cbsa",
+            "base_file": "states.json",
+            "geo_label": "g.properties.NAME",
+            "projection": "geoAlbersUsa"
+        },
+        "scheme": {
+            "label": "TURQUOISE",
+            "colors": [
+                "#b6e3bb",
+                "#30acb5",
+                "#0a6aad"
+            ]
+        }
+    },
+    {
+        "visual_id": 14,
+        "type": "map",
+        "title": "Population by County",
+        "description": "The most populated county is Los Angeles with a population nearly double that of second place Cook County.",
+        "image_file": "map_14.png",
+        "dataset_id": 13,
+        "value_format": "Whole",
+        "headers": [
+            "[\"County\"",
+            " \"Population\"]"
+        ],
+        "width": 1200,
+        "height": 600,
+        "scale": "linear",
+        "feature": 0,
+        "geo_config": {
+            "geo_id": "g.id",
+            "geo_file": "counties.json",
+            "geo_type": "county",
+            "base_file": "states.json",
+            "geo_label": "g.properties.name",
+            "projection": "geoAlbersUsa"
+        },
+        "scheme": {
+            "label": "HEAT",
+            "colors": [
+                "#ffff00",
+                "#ffa100",
+                "#ff0000"
+            ]
+        }
+    },
+    {
+        "visual_id": 15,
+        "type": "map",
+        "title": "Poverty Rate by State",
+        "description": "New Hampshire and Utah have the lowest poverty rates while the Mississippi Delta region struggles with higher poverty rates.",
+        "image_file": "map_15.png",
+        "dataset_id": 15,
+        "value_format": "Percent",
+        "headers": [
+            "[\"State\"",
+            " \"Poverty Rate\"]"
+        ],
+        "width": 1200,
+        "height": 600,
+        "scale": "linear",
+        "feature": 0,
+        "geo_config": {
+            "geo_id": "g.id",
+            "geo_file": "states.json",
+            "geo_type": "state",
+            "base_file": "states.json",
+            "geo_label": "g.properties.name",
+            "projection": "geoAlbersUsa"
+        },
+        "scheme": {
+            "label": "HEAT",
+            "colors": [
+                "#ffff00",
+                "#ffa100",
+                "#ff0000"
+            ]
+        }
+    }
+]
