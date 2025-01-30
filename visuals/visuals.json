@@ -8,13 +8,17 @@
         "dataset_id": 8,
         "value_format": "USDollar",
         "headers": [
-            "[\"CBSA\"",
-            " \"Median Household Income\"]"
+            "CBSA",
+            "Median Household Income"
         ],
         "width": 1200,
         "height": 600,
         "scale": "linear",
         "feature": 0,
+        "topic": [
+            "Income",
+            "Population"
+        ],
         "geo_config": {
             "geo_id": "g.properties.GEOID",
             "geo_file": "cbsa.json",
@@ -41,13 +45,16 @@
         "dataset_id": 9,
         "value_format": "USDollar",
         "headers": [
-            "[\"County\"",
-            " \"Median Household Income\"]"
+            "County",
+            "Median Household Income"
         ],
         "width": 1200,
         "height": 600,
         "scale": "linear",
         "feature": 0,
+        "topic": [
+            "Income"
+        ],
         "geo_config": {
             "geo_id": "g.properties.GEOID",
             "geo_file": "counties2.json",
@@ -74,13 +81,16 @@
         "dataset_id": 10,
         "value_format": "USDollar",
         "headers": [
-            "[\"State\"",
-            " \"Median Household Income\"]"
+            "State",
+            "Median Household Income"
         ],
         "width": 1200,
         "height": 600,
         "scale": "linear",
         "feature": 1,
+        "topic": [
+            "Income"
+        ],
         "geo_config": {
             "geo_id": "g.id",
             "geo_file": "states.json",
@@ -107,13 +117,16 @@
         "dataset_id": 12,
         "value_format": "",
         "headers": [
-            "[\"CBSA\"",
-            " \"GINI Coefficient\"]"
+            "CBSA",
+            "GINI Coefficient"
         ],
         "width": 1200,
         "height": 600,
         "scale": "linear",
         "feature": 1,
+        "topic": [
+            "Income"
+        ],
         "geo_config": {
             "geo_id": "g.properties.GEOID",
             "geo_file": "cbsa.json",
@@ -140,13 +153,16 @@
         "dataset_id": 13,
         "value_format": "Whole",
         "headers": [
-            "[\"County\"",
-            " \"Population\"]"
+            "County",
+            "Population"
         ],
         "width": 1200,
         "height": 600,
         "scale": "linear",
         "feature": 0,
+        "topic": [
+            "Population"
+        ],
         "geo_config": {
             "geo_id": "g.id",
             "geo_file": "counties.json",
@@ -173,13 +189,16 @@
         "dataset_id": 15,
         "value_format": "Percent",
         "headers": [
-            "[\"State\"",
-            " \"Poverty Rate\"]"
+            "State",
+            "Poverty Rate"
         ],
         "width": 1200,
         "height": 600,
         "scale": "linear",
         "feature": 0,
+        "topic": [
+            "Income"
+        ],
         "geo_config": {
             "geo_id": "g.id",
             "geo_file": "states.json",
