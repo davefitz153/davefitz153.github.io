@@ -57,5 +57,17 @@
                 "description": "Sure, we know about the high earning coastal metropolises, but which resort areas are pulling in the highest incomes?"
             }
         ]
+    },
+    {
+        "topic": "Real Estate",
+        "visuals": [
+            {
+                "title": "Where Homes Cost the Most",
+                "feature": 1,
+                "visual_id": 18,
+                "image_file": "zhvi_dec24.png",
+                "description": "See which counties have the highest average home valuations according to Zillow."
+            }
+        ]
     }
 ]

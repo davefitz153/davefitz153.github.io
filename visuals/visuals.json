@@ -232,7 +232,9 @@
         "height": 600,
         "scale": "linear",
         "feature": 1,
-        "topics": null,
+        "topics": [
+            "Real Estate"
+        ],
         "geo_config": {
             "geo_id": "g.id",
             "geo_file": "counties.json",
