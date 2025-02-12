@@ -74,7 +74,7 @@
     },
     {
         "visual_id": 11,
-        "type": "bar",
+        "type": "map",
         "title": "The Highest and Lowest Income States",
         "description": "D.C. and several coastal states earn the most with median incomes nearly double some southeastern states. ",
         "image_file": "map_11.png",
