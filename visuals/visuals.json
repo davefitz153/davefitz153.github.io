@@ -215,5 +215,39 @@
                 "#ff0000"
             ]
         }
+    },
+    {
+        "visual_id": 18,
+        "type": "map",
+        "title": "Where Homes Cost the Most",
+        "description": "See which counties have the highest average home valuations according to Zillow.",
+        "image_file": "zhvi_dec24.png",
+        "dataset_id": 45,
+        "value_format": "USDollar",
+        "headers": [
+            "County",
+            " ZHVI"
+        ],
+        "width": 1200,
+        "height": 600,
+        "scale": "linear",
+        "feature": 1,
+        "topics": null,
+        "geo_config": {
+            "geo_id": "g.id",
+            "geo_file": "counties.json",
+            "geo_type": "county",
+            "base_file": "states.json",
+            "geo_label": "g.properties.name",
+            "projection": "geoAlbersUsa"
+        },
+        "scheme": {
+            "label": "HEAT",
+            "colors": [
+                "#ffff00",
+                "#ffa100",
+                "#ff0000"
+            ]
+        }
     }
 ]
