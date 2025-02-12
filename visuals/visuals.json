@@ -16,6 +16,7 @@
         "height": 600,
         "scale": "linear",
         "feature": 1,
+        "scheme": "blues",
         "topics": [
             "Real Estate"
         ],
@@ -26,14 +27,6 @@
             "base_file": "states.json",
             "geo_label": "g.properties.name",
             "projection": "geoAlbersUsa"
-        },
-        "scheme": {
-            "label": "HEAT",
-            "colors": [
-                "#ffff00",
-                "#ffa100",
-                "#ff0000"
-            ]
         }
     },
     {
@@ -53,6 +46,7 @@
         "height": 600,
         "scale": "linear",
         "feature": 0,
+        "scheme": "oranges",
         "topics": [
             "Income"
         ],
@@ -63,14 +57,6 @@
             "base_file": "states.json",
             "geo_label": "g.properties.name",
             "projection": "geoAlbersUsa"
-        },
-        "scheme": {
-            "label": "HEAT",
-            "colors": [
-                "#ffff00",
-                "#ffa100",
-                "#ff0000"
-            ]
         }
     },
     {
@@ -90,6 +76,7 @@
         "height": 600,
         "scale": "linear",
         "feature": 0,
+        "scheme": "oranges",
         "topics": [
             "Population"
         ],
@@ -100,14 +87,6 @@
             "base_file": "states.json",
             "geo_label": "g.properties.name",
             "projection": "geoAlbersUsa"
-        },
-        "scheme": {
-            "label": "HEAT",
-            "colors": [
-                "#ffff00",
-                "#ffa100",
-                "#ff0000"
-            ]
         }
     },
     {
@@ -127,6 +106,7 @@
         "height": 600,
         "scale": "linear",
         "feature": 1,
+        "scheme": "oranges",
         "topics": [
             "Income"
         ],
@@ -137,14 +117,6 @@
             "base_file": "states.json",
             "geo_label": "g.properties.NAME",
             "projection": "geoAlbersUsa"
-        },
-        "scheme": {
-            "label": "TURQUOISE",
-            "colors": [
-                "#b6e3bb",
-                "#30acb5",
-                "#0a6aad"
-            ]
         }
     },
     {
@@ -164,6 +136,7 @@
         "height": 600,
         "scale": "linear",
         "feature": 1,
+        "scheme": "blues",
         "topics": [
             "Income"
         ],
@@ -174,14 +147,6 @@
             "base_file": "states.json",
             "geo_label": "g.properties.name",
             "projection": "geoAlbersUsa"
-        },
-        "scheme": {
-            "label": "HEAT",
-            "colors": [
-                "#ffff00",
-                "#ffa100",
-                "#ff0000"
-            ]
         }
     },
     {
@@ -201,6 +166,7 @@
         "height": 600,
         "scale": "linear",
         "feature": 0,
+        "scheme": "blues",
         "topics": [
             "Income"
         ],
@@ -211,14 +177,6 @@
             "base_file": "states.json",
             "geo_label": "g.properties.NAME",
             "projection": "geoAlbersUsa"
-        },
-        "scheme": {
-            "label": "HEAT",
-            "colors": [
-                "#ffff00",
-                "#ffa100",
-                "#ff0000"
-            ]
         }
     },
     {
@@ -238,6 +196,7 @@
         "height": 600,
         "scale": "linear",
         "feature": 0,
+        "scheme": "oranges",
         "topics": [
             "Income",
             "Population"
@@ -249,14 +208,6 @@
             "base_file": "states.json",
             "geo_label": "g.properties.NAME",
             "projection": "geoAlbersUsa"
-        },
-        "scheme": {
-            "label": "HEAT",
-            "colors": [
-                "#ffff00",
-                "#ffa100",
-                "#ff0000"
-            ]
         }
     }
 ]
