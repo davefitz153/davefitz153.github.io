@@ -4,7 +4,7 @@
         "type": "map",
         "title": "Where Homes Cost the Most",
         "description": "See which counties have the highest average home valuations according to Zillow.",
-        "image_file": "zhvi_dec24.png",
+        "image_file": "18.webp",
         "dataset_id": 45,
         "source": "Zillow Home Value Index - Dec '24",
         "value_format": "USDollar",
@@ -16,7 +16,7 @@
         "height": 600,
         "scale": "linear",
         "feature": 1,
-        "scheme": "blues",
+        "scheme": "greens",
         "topics": [
             "Real Estate"
         ],
@@ -34,7 +34,7 @@
         "type": "map",
         "title": "Poverty Rate by State",
         "description": "New Hampshire and Utah have the lowest poverty rates while the Mississippi Delta region struggles with higher poverty rates.",
-        "image_file": "map_15.png",
+        "image_file": "15.webp",
         "dataset_id": 15,
         "source": "2023 American Community Survey - 5 Year",
         "value_format": "Percent",
@@ -64,7 +64,7 @@
         "type": "map",
         "title": "Population by County",
         "description": "The most populated county is Los Angeles with a population nearly double that of second place Cook County.",
-        "image_file": "map_14.png",
+        "image_file": "14.webp",
         "dataset_id": 13,
         "source": "2020 Census",
         "value_format": "Whole",
@@ -90,41 +90,11 @@
         }
     },
     {
-        "visual_id": 13,
-        "type": "map",
-        "title": "Income Inequality: Mapping the GINI Coefficient",
-        "description": "The Upper Midwest generally has the least income inequality while areas of the Mississippi Delta, New York, and south Florida see larger disparities.",
-        "image_file": "map_13.png",
-        "dataset_id": 12,
-        "source": "2022 American Community Survey - 5 Year",
-        "value_format": "",
-        "headers": [
-            "CBSA",
-            "GINI Coefficient"
-        ],
-        "width": 1200,
-        "height": 600,
-        "scale": "linear",
-        "feature": 1,
-        "scheme": "oranges",
-        "topics": [
-            "Income"
-        ],
-        "geo_config": {
-            "geo_id": "g.properties.GEOID",
-            "geo_file": "cbsa.json",
-            "geo_type": "cbsa",
-            "base_file": "states.json",
-            "geo_label": "g.properties.NAME",
-            "projection": "geoAlbersUsa"
-        }
-    },
-    {
         "visual_id": 11,
         "type": "map",
         "title": "The Highest and Lowest Income States",
         "description": "D.C. and several coastal states earn the most with median incomes nearly double some southeastern states. ",
-        "image_file": "map_11.png",
+        "image_file": "11.webp",
         "dataset_id": 10,
         "source": "2022 American Community Survey - 5 Year",
         "value_format": "USDollar",
@@ -136,7 +106,7 @@
         "height": 600,
         "scale": "linear",
         "feature": 1,
-        "scheme": "blues",
+        "scheme": "greens",
         "topics": [
             "Income"
         ],
@@ -154,7 +124,7 @@
         "type": "map",
         "title": "Median Household Income by County",
         "description": "Four of the top ten highest earning counties are in Virginia, home to many well paid government contractors.",
-        "image_file": "map_10.png",
+        "image_file": "10.webp",
         "dataset_id": 9,
         "source": "2022 American Community Survey - 5 Year",
         "value_format": "USDollar",
@@ -171,42 +141,11 @@
             "Income"
         ],
         "geo_config": {
-            "geo_id": "g.properties.GEOID",
-            "geo_file": "counties2.json",
+            "geo_id": "g.id",
+            "geo_file": "counties.json",
             "geo_type": "county",
             "base_file": "states.json",
-            "geo_label": "g.properties.NAME",
-            "projection": "geoAlbersUsa"
-        }
-    },
-    {
-        "visual_id": 9,
-        "type": "map",
-        "title": "Median Household Income by CBSA",
-        "description": "Sure, we know about the high earning coastal metropolises, but which resort areas are pulling in the highest incomes?",
-        "image_file": "map_9.png",
-        "dataset_id": 8,
-        "source": "2022 American Community Survey - 5 Year",
-        "value_format": "USDollar",
-        "headers": [
-            "CBSA",
-            "Median Household Income"
-        ],
-        "width": 1200,
-        "height": 600,
-        "scale": "linear",
-        "feature": 0,
-        "scheme": "oranges",
-        "topics": [
-            "Income",
-            "Population"
-        ],
-        "geo_config": {
-            "geo_id": "g.properties.GEOID",
-            "geo_file": "cbsa.json",
-            "geo_type": "cbsa",
-            "base_file": "states.json",
-            "geo_label": "g.properties.NAME",
+            "geo_label": "g.properties.name",
             "projection": "geoAlbersUsa"
         }
     }
