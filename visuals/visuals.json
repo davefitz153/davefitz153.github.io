@@ -17,7 +17,9 @@
         "scale": "linear",
         "feature": 1,
         "scheme": "oranges",
-        "topics": null,
+        "topics": [
+            "Personal Finance"
+        ],
         "geo_config": {
             "geo_id": "g.id",
             "geo_file": "states.json",

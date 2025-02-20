@@ -48,5 +48,17 @@
                 "description": "See which counties have the highest average home valuations according to Zillow."
             }
         ]
+    },
+    {
+        "topic": "Personal Finance",
+        "visuals": [
+            {
+                "title": "Credit Card Delinquencies Q3 2024",
+                "feature": 1,
+                "visual_id": 21,
+                "image_file": "21.webp",
+                "description": "See which states have the highest credit card delinquencies."
+            }
+        ]
     }
 ]
