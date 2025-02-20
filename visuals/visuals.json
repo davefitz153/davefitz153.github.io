@@ -1,5 +1,89 @@
 [
     {
+        "visual_id": 21,
+        "type": "map",
+        "title": "Credit Card Delinquencies Q3 2024",
+        "description": "See which states have the highest credit card delinquencies.",
+        "image_file": "21.webp",
+        "dataset_id": 62,
+        "source": "WalletHub",
+        "value_format": "Percentage",
+        "headers": [
+            "State",
+            " Delinquency Rate"
+        ],
+        "width": 1200,
+        "height": 600,
+        "scale": "linear",
+        "feature": 1,
+        "scheme": "oranges",
+        "topics": null,
+        "geo_config": {
+            "geo_id": "g.id",
+            "geo_file": "states.json",
+            "geo_type": "state",
+            "base_file": "states.json",
+            "geo_label": "g.properties.name",
+            "projection": "geoAlbersUsa"
+        }
+    },
+    {
+        "visual_id": 20,
+        "type": "map",
+        "title": "test",
+        "description": "test32",
+        "image_file": "20.webp",
+        "dataset_id": 53,
+        "source": "Zillow Home Index",
+        "value_format": "USDollar",
+        "headers": [
+            "County",
+            "HVI"
+        ],
+        "width": 1200,
+        "height": 600,
+        "scale": "linear",
+        "feature": 1,
+        "scheme": "greens",
+        "topics": null,
+        "geo_config": {
+            "geo_id": "g.id",
+            "geo_file": "counties.json",
+            "geo_type": "county",
+            "base_file": "states.json",
+            "geo_label": "g.properties.name",
+            "projection": "geoAlbersUsa"
+        }
+    },
+    {
+        "visual_id": 19,
+        "type": "map",
+        "title": "test",
+        "description": "test2",
+        "image_file": "19.webp",
+        "dataset_id": 52,
+        "source": "Zillow Home Index",
+        "value_format": "USDollar",
+        "headers": [
+            "County",
+            "Price"
+        ],
+        "width": 1200,
+        "height": 600,
+        "scale": "linear",
+        "feature": 0,
+        "scheme": "blues",
+        "topics": null,
+        "geo_config": {
+            "geo_id": "g.id",
+            "geo_file": "counties.json",
+            "geo_type": "county",
+            "base_file": "states.json",
+            "geo_label": "g.properties.name",
+            "projection": "geoAlbersUsa"
+        }
+    },
+    {
         "visual_id": 18,
         "type": "map",
         "title": "Where Homes Cost the Most",
