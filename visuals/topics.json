@@ -1,5 +1,6 @@
 [
     {
+        "topic_id": 1,
         "topic": "Income",
         "visuals": [
             {
@@ -29,6 +30,7 @@
         ]
     },
     {
+        "topic_id": 2,
         "topic": "Population",
         "visuals": [
             {
@@ -42,6 +44,7 @@
         ]
     },
     {
+        "topic_id": 3,
         "topic": "Real Estate",
         "visuals": [
             {
@@ -55,6 +58,7 @@
         ]
     },
     {
+        "topic_id": 4,
         "topic": "Personal Finance",
         "visuals": [
             {
