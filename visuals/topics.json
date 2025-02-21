@@ -7,21 +7,24 @@
                 "feature": 0,
                 "visual_id": 10,
                 "image_file": "10.webp",
-                "description": "Four of the top ten highest earning counties are in Virginia, home to many well paid government contractors."
+                "description": "View an interactive map showing median household incomes by county. ",
+                "teaser": "Four of the top ten highest earning counties are in Virginia, home to many well paid government contractors."
             },
             {
                 "title": "The Highest and Lowest Income States",
                 "feature": 1,
                 "visual_id": 11,
                 "image_file": "11.webp",
-                "description": "D.C. and several coastal states earn the most with median incomes nearly double some southeastern states. "
+                "description": "This interactive map shows the median income by state. ",
+                "teaser": "D.C. and several coastal states earn the most with median incomes nearly double some southeastern states. "
             },
             {
                 "title": "Poverty Rate by State",
                 "feature": 0,
                 "visual_id": 15,
                 "image_file": "15.webp",
-                "description": "New Hampshire and Utah have the lowest poverty rates while the Mississippi Delta region struggles with higher poverty rates."
+                "description": "View an interactive map showing the poverty rate by state.",
+                "teaser": "New Hampshire and Utah have the lowest poverty rates while the Mississippi Delta region struggles with higher poverty rates."
             }
         ]
     },
@@ -33,7 +36,8 @@
                 "feature": 0,
                 "visual_id": 14,
                 "image_file": "14.webp",
-                "description": "The most populated county is Los Angeles with a population nearly double that of second place Cook County."
+                "description": "Find out which counties have the highest populations using this interactive map.",
+                "teaser": "The most populated county is Los Angeles with a population nearly double that of second place Cook County."
             }
         ]
     },
@@ -45,7 +49,8 @@
                 "feature": 1,
                 "visual_id": 18,
                 "image_file": "18.webp",
-                "description": "See which counties have the highest average home valuations according to Zillow."
+                "description": "This interactive map shows the counties with the highest and lowest home valuations according to the Zillow Home Value Index as of Dec 2024.",
+                "teaser": "See which counties have the highest average home valuations according to Zillow."
             }
         ]
     },
@@ -53,11 +58,12 @@
         "topic": "Personal Finance",
         "visuals": [
             {
-                "title": "Credit Card Delinquencies Q3 2024",
+                "title": "Where Credit Card Delinquencies are Highest",
                 "feature": 1,
                 "visual_id": 21,
                 "image_file": "21.webp",
-                "description": "See which states have the highest credit card delinquencies."
+                "description": "An interactive data visualization showing which states have the highest and lowest credit card delinquency rates. Data is from WalletHub as of Q3 2024.",
+                "teaser": "Credit card delinquency rates are highest in the southeast while the northwest stays current on their credit card debts."
             }
         ]
     }
