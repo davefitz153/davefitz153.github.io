@@ -9,6 +9,8 @@
         "connector_type": "curve",
         "connector_end": "arrow",
         "title": "Loudoun County, VA",
-        "label": "The highest median household income is $x."
+        "label": "The highest median household income is $x.",
+        "lon": -77.635752,
+        "lat": 39.09048
     }
 ]
