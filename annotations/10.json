@@ -1,0 +1,14 @@
+[
+    {
+        "visual_id": 10,
+        "annotation_type": "label",
+        "geo_id": 51107,
+        "dx": 100,
+        "dy": 100,
+        "color": "#000000",
+        "connector_type": "curve",
+        "connector_end": "arrow",
+        "title": "Loudoun County, VA",
+        "label": "The highest median household income is $x."
+    }
+]
