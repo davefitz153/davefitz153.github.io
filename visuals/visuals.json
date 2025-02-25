@@ -171,7 +171,7 @@
         "width": 1200,
         "height": 600,
         "scale": "linear",
-        "feature": 0,
+        "feature": 1,
         "scheme": "blues",
         "topics": [
             "Income"
