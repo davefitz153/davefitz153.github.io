@@ -1,8 +1,11 @@
 [
     {
+        "annotation_id": 37,
         "visual_id": 10,
         "annotation_type": "label",
         "geo_id": 6075,
+        "x": null,
+        "y": null,
         "dx": 150,
         "dy": 150,
         "color": "#000000",
@@ -14,9 +17,12 @@
         "lat": 37.756681
     },
     {
+        "annotation_id": 38,
         "visual_id": 10,
         "annotation_type": "label",
         "geo_id": 28055,
+        "x": null,
+        "y": null,
         "dx": 0,
         "dy": 80,
         "color": "#000",
@@ -28,9 +34,12 @@
         "lat": 32.741398
     },
     {
+        "annotation_id": 39,
         "visual_id": 10,
         "annotation_type": "label",
         "geo_id": 51107,
+        "x": null,
+        "y": null,
         "dx": -40,
         "dy": -125,
         "color": "#000000",
@@ -40,5 +49,22 @@
         "label": "The top earning county in the nation has a MHI of $170,463",
         "lon": -77.635752,
         "lat": 39.09048
+    },
+    {
+        "annotation_id": 40,
+        "visual_id": 10,
+        "annotation_type": "label",
+        "geo_id": null,
+        "x": 280,
+        "y": 282,
+        "dx": 102,
+        "dy": -196,
+        "color": "#000",
+        "connector_type": "line",
+        "connector_end": "arrow",
+        "title": "Douglas County, CO",
+        "label": "The highest ranking non-coastal county ranks #8 with an MHI just over $139K.",
+        "lon": null,
+        "lat": null
     }
 ]

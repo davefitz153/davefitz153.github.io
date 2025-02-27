@@ -140,7 +140,7 @@
         "width": 1200,
         "height": 600,
         "scale": "linear",
-        "feature": 1,
+        "feature": 0,
         "scheme": "greens",
         "topics": [
             "Income"

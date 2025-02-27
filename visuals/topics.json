@@ -13,7 +13,7 @@
             },
             {
                 "title": "The Highest and Lowest Income States",
-                "feature": 1,
+                "feature": 0,
                 "visual_id": 11,
                 "image_file": "11.webp",
                 "description": "This interactive map shows the median income by state. ",
