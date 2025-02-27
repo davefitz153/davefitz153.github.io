@@ -1,6 +1,6 @@
 [
     {
-        "annotation_id": 37,
+        "annotation_id": 45,
         "visual_id": 10,
         "annotation_type": "label",
         "geo_id": 6075,
@@ -17,7 +17,7 @@
         "lat": 37.756681
     },
     {
-        "annotation_id": 38,
+        "annotation_id": 46,
         "visual_id": 10,
         "annotation_type": "label",
         "geo_id": 28055,
@@ -34,7 +34,7 @@
         "lat": 32.741398
     },
     {
-        "annotation_id": 39,
+        "annotation_id": 47,
         "visual_id": 10,
         "annotation_type": "label",
         "geo_id": 51107,
@@ -51,14 +51,14 @@
         "lat": 39.09048
     },
     {
-        "annotation_id": 40,
+        "annotation_id": 48,
         "visual_id": 10,
         "annotation_type": "label",
         "geo_id": null,
         "x": 280,
         "y": 282,
-        "dx": 102,
-        "dy": -196,
+        "dx": -8,
+        "dy": -160,
         "color": "#000",
         "connector_type": "line",
         "connector_end": "arrow",
