@@ -1,9 +1,8 @@
 [
     {
-        "annotation_id": 79,
+        "annotation_id": "0671e041-f574-11ef-83b8-7404f1dc4c4f",
         "visual_id": 11,
         "annotation_type": "label",
-        "geo_id": null,
         "x": 682,
         "y": 268,
         "dx": -46,
@@ -12,15 +11,12 @@
         "connector_type": "line",
         "connector_end": "arrow",
         "title": "D.C. Ranks #1",
-        "label": "Okay, it's not a state, but D.C. ranks #1 followed by it's neighbor Maryland",
-        "lon": null,
-        "lat": null
+        "label": "Okay, it's not a state, but D.C. ranks #1 followed by it's neighbor Maryland"
     },
     {
-        "annotation_id": 80,
+        "annotation_id": "0671e0f6-f574-11ef-83b8-7404f1dc4c4f",
         "visual_id": 11,
         "annotation_type": "label",
-        "geo_id": null,
         "x": 46,
         "y": 267,
         "dx": 30,
@@ -29,15 +25,12 @@
         "connector_type": "line",
         "connector_end": "arrow",
         "title": "California",
-        "label": "The west coast powerhouse actually only ranks at #6",
-        "lon": null,
-        "lat": null
+        "label": "The west coast powerhouse actually only ranks at #6"
     },
     {
-        "annotation_id": 81,
+        "annotation_id": "0671e1a2-f574-11ef-83b8-7404f1dc4c4f",
         "visual_id": 11,
         "annotation_type": "label",
-        "geo_id": null,
         "x": 267,
         "y": 530,
         "dx": -19,
@@ -46,15 +39,12 @@
         "connector_type": "line",
         "connector_end": "arrow",
         "title": "Aloha Means Big Incomes",
-        "label": "Hawaiians rank #5 at $94K, but it's still probably not enough out there!",
-        "lon": null,
-        "lat": null
+        "label": "Hawaiians rank #5 at $94K, but it's still probably not enough out there!"
     },
     {
-        "annotation_id": 82,
+        "annotation_id": "0671e247-f574-11ef-83b8-7404f1dc4c4f",
         "visual_id": 11,
         "annotation_type": "label",
-        "geo_id": null,
         "x": 508,
         "y": 396,
         "dx": 24,
@@ -63,8 +53,6 @@
         "connector_type": "line",
         "connector_end": "arrow",
         "title": "Hey, the COL is cheap though!",
-        "label": "Mississippi ranks last in income just below $53K",
-        "lon": null,
-        "lat": null
+        "label": "Mississippi ranks last in income just below $53K"
     }
 ]
