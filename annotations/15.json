@@ -1,1 +1,30 @@
-[]
+[
+    {
+        "annotation_id": "1e65c9dc-43c8-4920-8e4d-bfb3ba0e7dc8",
+        "visual_id": 15,
+        "annotation_type": "label",
+        "x": 483,
+        "y": 436,
+        "dx": 95,
+        "dy": 23,
+        "color": "#000",
+        "connector_type": "line",
+        "connector_end": "arrow",
+        "title": "Mississippi & Louisiana",
+        "label": "With 19.1% and 18.9% poverty rates respectively, MS and LA rank worst in the nation"
+    },
+    {
+        "annotation_id": "59e854f0-2211-4930-8261-ceab11e5a143",
+        "visual_id": 15,
+        "annotation_type": "label",
+        "x": 732,
+        "y": 169,
+        "dx": -104,
+        "dy": -5,
+        "color": "#000",
+        "connector_type": "line",
+        "connector_end": "arrow",
+        "title": "New Hampshire",
+        "label": "The Granite State's 7.2% poverty rate is the lowest in the nation"
+    }
+]
