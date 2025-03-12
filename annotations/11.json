@@ -54,5 +54,19 @@
         "connector_end": "arrow",
         "title": "Hey, the COL is cheap though!",
         "label": "Mississippi ranks last in income just below $53K"
+    },
+    {
+        "annotation_id": "afc2e17f-13d5-4652-961d-b19f6e0ceef2",
+        "visual_id": 11,
+        "annotation_type": "label",
+        "x": 425,
+        "y": 0,
+        "dx": 0,
+        "dy": 0,
+        "color": "#000",
+        "connector_type": "line",
+        "connector_end": "arrow",
+        "title": "The Highest and Lowest Income States",
+        "label": ""
     }
 ]

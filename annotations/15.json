@@ -5,8 +5,8 @@
         "annotation_type": "label",
         "x": 483,
         "y": 436,
-        "dx": 95,
-        "dy": 23,
+        "dx": 113,
+        "dy": -82,
         "color": "#000",
         "connector_type": "line",
         "connector_end": "arrow",
@@ -14,17 +14,45 @@
         "label": "With 19.1% and 18.9% poverty rates respectively, MS and LA rank worst in the nation"
     },
     {
+        "annotation_id": "21153ed1-4ae8-4b03-b75e-435e76884506",
+        "visual_id": 15,
+        "annotation_type": "label",
+        "x": 275,
+        "y": 255,
+        "dx": 132,
+        "dy": -62,
+        "color": "#000",
+        "connector_type": "line",
+        "connector_end": "arrow",
+        "title": "Default Title",
+        "label": "Default Label"
+    },
+    {
         "annotation_id": "59e854f0-2211-4930-8261-ceab11e5a143",
         "visual_id": 15,
         "annotation_type": "label",
         "x": 732,
         "y": 169,
-        "dx": -104,
-        "dy": -5,
+        "dx": -101,
+        "dy": -12,
         "color": "#000",
         "connector_type": "line",
         "connector_end": "arrow",
         "title": "New Hampshire",
         "label": "The Granite State's 7.2% poverty rate is the lowest in the nation"
+    },
+    {
+        "annotation_id": "addd4ef3-7d0a-421d-9ada-b60bd81bf0eb",
+        "visual_id": 15,
+        "annotation_type": "label",
+        "x": 425,
+        "y": 0,
+        "dx": -140,
+        "dy": 39,
+        "color": "#000",
+        "connector_type": "line",
+        "connector_end": "arrow",
+        "title": "Poverty Rate by State",
+        "label": ""
     }
 ]
