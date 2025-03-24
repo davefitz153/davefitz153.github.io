@@ -1,0 +1,22 @@
+[
+    {
+        "page_id": 15,
+        "title": "Poverty Rate by State",
+        "description": "View an interactive map showing the poverty rate by state.",
+        "teaser": "New Hampshire and Utah have the lowest poverty rates while the Mississippi Delta region struggles with higher poverty rates.",
+        "image_file": "15.webp",
+        "visual_id": "",
+        "summary_file": "/summaries/15.html",
+        "dataset_file": "/datasets/15.json"
+    },
+    {
+        "page_id": 11,
+        "title": "The Highest and Lowest Income States",
+        "description": "This interactive map shows the median income by state. ",
+        "teaser": "D.C. and several coastal states earn the most with median incomes nearly double some southeastern states. ",
+        "image_file": "11.webp",
+        "visual_id": "",
+        "summary_file": "/summaries/11.html",
+        "dataset_file": "/datasets/10.json"
+    }
+]
