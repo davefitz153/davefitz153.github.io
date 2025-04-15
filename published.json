@@ -1,0 +1,11 @@
+{
+  "order": ["abc123"],
+  "pages": {
+    "abc123": { 
+        "visualId": "eaa61e5c-ced5-493f-b0e7-9f0ddfbe2b39",
+        "title": "Poverty Rate by State",
+        "topics": "",
+        "summaryFile": "/summaries/15.html"
+    }
+  }
+}
