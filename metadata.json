@@ -1,0 +1,38 @@
+{
+  "order": [
+    "o1ybhy",
+    "ao2ukt"
+  ],
+  "pages": {
+    "o1ybhy": {
+      "id": "o1ybhy",
+      "visual_id": "fe94ad56-f7c3-4c6c-80b5-c1a760c49891",
+      "title": "The Highest Income States",
+      "description": "View the highest income states",
+      "teaser": "",
+      "topics": [],
+      "summary_file": "/summaries/",
+      "image_file": "/images/",
+      "published": 1,
+      "featured": 1,
+      "created_at": "2025-04-17T20:41:43.000Z",
+      "updated_at": "2025-04-18T15:28:28.000Z"
+    },
+    "ao2ukt": {
+      "id": "ao2ukt",
+      "visual_id": "165b0f6f-4e0a-4208-bd2f-5bc49523f05b",
+      "title": "Highest Income Counties",
+      "description": "Mapping the highest income counties.",
+      "teaser": "",
+      "topics": [
+        "Income"
+      ],
+      "summary_file": "/summaries/",
+      "image_file": "/images/",
+      "published": 1,
+      "featured": 1,
+      "created_at": "2025-04-17T17:51:30.000Z",
+      "updated_at": "2025-04-18T15:28:41.000Z"
+    }
+  }
+}
