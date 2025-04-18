@@ -10,7 +10,9 @@
       "title": "The Highest Income States",
       "description": "This interactive map shows the median income by state. ",
       "teaser": "D.C. and several coastal states earn the most with median incomes nearly double some southeastern states.",
-      "topics": "[\"Income\"]",
+      "topics": [
+        "Income"
+      ],
       "summary_file": "/summaries/11.html",
       "image_file": "/images/the-highest-income-states.png",
       "published": 1,
@@ -24,7 +26,9 @@
       "title": "Highest Income Counties",
       "description": "View an interactive map showing median household incomes by county.",
       "teaser": "Four of the top ten highest earning counties are in Virginia, home to many well paid government contractors.",
-      "topics": "[\"Income\"]",
+      "topics": [
+        "Income"
+      ],
       "summary_file": "/summaries/10.html",
       "image_file": "/images/highest-income-counties.png",
       "published": 1,
