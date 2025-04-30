@@ -1,9 +1,26 @@
 {
   "order": [
+    "qmlilr",
     "o1ybhy",
     "ao2ukt"
   ],
   "pages": {
+    "qmlilr": {
+      "id": "qmlilr",
+      "visual_id": "5e4e8ecc-ccc6-4ec3-884a-3ce63e5bbcf3",
+      "title": "Where Homes Cost the Most",
+      "description": "View this map showing the median home price by county.",
+      "teaser": "See which counties have the highest average home valuations according to Zillow.",
+      "topics": [
+        "Housing"
+      ],
+      "summary_file": "/summaries/18.html",
+      "image_file": "/images/most-expensive-homes.png",
+      "published": 1,
+      "featured": 1,
+      "created_at": "2025-04-30T19:51:33.000Z",
+      "updated_at": "2025-04-30T19:51:33.000Z"
+    },
     "o1ybhy": {
       "id": "o1ybhy",
       "visual_id": "fe94ad56-f7c3-4c6c-80b5-c1a760c49891",
@@ -18,7 +35,7 @@
       "published": 1,
       "featured": 1,
       "created_at": "2025-04-17T20:41:43.000Z",
-      "updated_at": "2025-04-18T16:23:41.000Z"
+      "updated_at": "2025-04-20T16:36:09.000Z"
     },
     "ao2ukt": {
       "id": "ao2ukt",
@@ -34,7 +51,7 @@
       "published": 1,
       "featured": 1,
       "created_at": "2025-04-17T17:51:30.000Z",
-      "updated_at": "2025-04-18T16:24:43.000Z"
+      "updated_at": "2025-04-20T15:55:36.000Z"
     }
   }
 }
