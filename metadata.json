@@ -1,10 +1,27 @@
 {
   "order": [
+    "4nwov1",
     "qmlilr",
     "o1ybhy",
     "ao2ukt"
   ],
   "pages": {
+    "4nwov1": {
+      "id": "4nwov1",
+      "visual_id": "d4cb5294-335c-4966-a6c9-53becc0a8949",
+      "title": "The Poorest States",
+      "description": "View an interactive map showing the poverty rate by state.",
+      "teaser": "New Hampshire and Utah have the lowest poverty rates while the Mississippi Delta region struggles with higher poverty rates.",
+      "topics": [
+        "Income"
+      ],
+      "summary_file": "/summaries/15.html",
+      "image_file": "/images/the-poorest-states.png",
+      "published": 1,
+      "featured": 0,
+      "created_at": "2025-05-02T00:45:03.000Z",
+      "updated_at": "2025-05-02T00:45:30.000Z"
+    },
     "qmlilr": {
       "id": "qmlilr",
       "visual_id": "5e4e8ecc-ccc6-4ec3-884a-3ce63e5bbcf3",
