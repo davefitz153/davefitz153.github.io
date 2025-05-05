@@ -1,11 +1,28 @@
 {
   "order": [
+    "zylz14",
     "4nwov1",
     "qmlilr",
     "o1ybhy",
     "ao2ukt"
   ],
   "pages": {
+    "zylz14": {
+      "id": "zylz14",
+      "visual_id": "755085f2-0aca-42c8-8501-7180cd32a9cc",
+      "title": "Unemployment Rates by State",
+      "description": "View an interactive map showing which states have the highest and lowest unemployment rates.",
+      "teaser": "Unemployment remains consistently low in the Dakotas while it's crept up in western states like Nevada and California.",
+      "topics": [
+        "Labor Markets"
+      ],
+      "summary_file": "/summaries/unemployment-by-state.html",
+      "image_file": "/images/unemployment-by-state.png",
+      "published": 1,
+      "featured": 1,
+      "created_at": "2025-05-05T19:08:51.000Z",
+      "updated_at": "2025-05-05T19:08:51.000Z"
+    },
     "4nwov1": {
       "id": "4nwov1",
       "visual_id": "d4cb5294-335c-4966-a6c9-53becc0a8949",
