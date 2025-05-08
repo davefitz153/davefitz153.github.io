@@ -1,5 +1,6 @@
 {
   "order": [
+    "wu2hsi",
     "zylz14",
     "4nwov1",
     "qmlilr",
@@ -7,6 +8,22 @@
     "ao2ukt"
   ],
   "pages": {
+    "wu2hsi": {
+      "id": "wu2hsi",
+      "visual_id": "94a2427a-f6ea-4c71-b8c0-17c02ab2dee2",
+      "title": "Amusement Parks by State",
+      "description": "View an interactive map showing the number of amusement parks in each U.S. state.",
+      "teaser": "Florida and Texas lead the country when it comes to the number of amusement parks while Wyoming has not one.",
+      "topics": [
+        "Entertainment"
+      ],
+      "summary_file": "/summaries/amusement-parks-by-state.html",
+      "image_file": "/images/amusement-parks-by-state.png",
+      "published": 1,
+      "featured": 1,
+      "created_at": "2025-05-08T16:48:02.000Z",
+      "updated_at": "2025-05-08T17:22:55.000Z"
+    },
     "zylz14": {
       "id": "zylz14",
       "visual_id": "755085f2-0aca-42c8-8501-7180cd32a9cc",
