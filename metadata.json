@@ -1,5 +1,6 @@
 {
   "order": [
+    "f3hw8u",
     "wu2hsi",
     "zylz14",
     "4nwov1",
@@ -8,6 +9,22 @@
     "ao2ukt"
   ],
   "pages": {
+    "f3hw8u": {
+      "id": "f3hw8u",
+      "visual_id": "be2af284-e2f4-4d46-bd33-c1543874e29b",
+      "title": "Gas Prices by State",
+      "description": "View an interactive map showing which states have the highest and lowest gas prices.",
+      "teaser": "Gas in California is nearly double the cost compared to the Deep South.",
+      "topics": [
+        "Prices"
+      ],
+      "summary_file": "/summaries/gas-prices-by-state.html",
+      "image_file": "/images/gas-prices-by-state.png",
+      "published": 1,
+      "featured": 1,
+      "created_at": "2025-05-13T18:37:14.000Z",
+      "updated_at": "2025-05-13T18:45:59.000Z"
+    },
     "wu2hsi": {
       "id": "wu2hsi",
       "visual_id": "94a2427a-f6ea-4c71-b8c0-17c02ab2dee2",
