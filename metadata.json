@@ -1,5 +1,6 @@
 {
   "order": [
+    "j4uglz",
     "f3hw8u",
     "wu2hsi",
     "zylz14",
@@ -9,6 +10,22 @@
     "ao2ukt"
   ],
   "pages": {
+    "j4uglz": {
+      "id": "j4uglz",
+      "visual_id": "f8938567-62cb-48ea-b701-7e1e99d5d400",
+      "title": "SALT for the Wealthy",
+      "description": "View an interactive map showing the percentage of taxpayers who claimed the SALT deduction.",
+      "teaser": "The SALT deduction largely favors a small, wealthy slither of taxpayers living in high cost areas.",
+      "topics": [
+        "Income"
+      ],
+      "summary_file": "/summaries/salt-for-the-wealthy.html",
+      "image_file": "/images/salt-for-the-wealthy.png",
+      "published": 1,
+      "featured": 1,
+      "created_at": "2025-05-14T20:50:48.000Z",
+      "updated_at": "2025-05-14T20:50:48.000Z"
+    },
     "f3hw8u": {
       "id": "f3hw8u",
       "visual_id": "be2af284-e2f4-4d46-bd33-c1543874e29b",
