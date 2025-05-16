@@ -20,11 +20,11 @@
         "Income"
       ],
       "summary_file": "/summaries/salt-for-the-wealthy.html",
-      "image_file": "/images/salt-for-the-wealthy.png",
+      "image_file": "/images/salt-share-2022.webp",
       "published": 1,
       "featured": 1,
       "created_at": "2025-05-14T20:50:48.000Z",
-      "updated_at": "2025-05-14T20:50:48.000Z"
+      "updated_at": "2025-05-16T21:41:57.000Z"
     },
     "f3hw8u": {
       "id": "f3hw8u",
@@ -36,11 +36,11 @@
         "Prices"
       ],
       "summary_file": "/summaries/gas-prices-by-state.html",
-      "image_file": "/images/gas-prices-by-state.png",
+      "image_file": "/images/gas-prices-by-state.webp",
       "published": 1,
       "featured": 1,
       "created_at": "2025-05-13T18:37:14.000Z",
-      "updated_at": "2025-05-13T18:45:59.000Z"
+      "updated_at": "2025-05-16T21:42:07.000Z"
     },
     "wu2hsi": {
       "id": "wu2hsi",
@@ -52,11 +52,11 @@
         "Entertainment"
       ],
       "summary_file": "/summaries/amusement-parks-by-state.html",
-      "image_file": "/images/amusement-parks-by-state.png",
+      "image_file": "/images/amusement-parks-by-state.webp",
       "published": 1,
       "featured": 1,
       "created_at": "2025-05-08T16:48:02.000Z",
-      "updated_at": "2025-05-08T17:22:55.000Z"
+      "updated_at": "2025-05-16T21:42:16.000Z"
     },
     "zylz14": {
       "id": "zylz14",
@@ -68,11 +68,11 @@
         "Labor Markets"
       ],
       "summary_file": "/summaries/unemployment-by-state.html",
-      "image_file": "/images/unemployment-by-state.png",
+      "image_file": "/images/unemployment-by-state.webp",
       "published": 1,
       "featured": 1,
       "created_at": "2025-05-05T19:08:51.000Z",
-      "updated_at": "2025-05-05T19:08:51.000Z"
+      "updated_at": "2025-05-16T21:42:27.000Z"
     },
     "4nwov1": {
       "id": "4nwov1",
@@ -84,11 +84,11 @@
         "Income"
       ],
       "summary_file": "/summaries/15.html",
-      "image_file": "/images/the-poorest-states.png",
+      "image_file": "/images/the-poorest-states.webp",
       "published": 1,
       "featured": 0,
       "created_at": "2025-05-02T00:45:03.000Z",
-      "updated_at": "2025-05-02T00:45:30.000Z"
+      "updated_at": "2025-05-16T21:42:53.000Z"
     },
     "qmlilr": {
       "id": "qmlilr",
@@ -100,11 +100,11 @@
         "Housing"
       ],
       "summary_file": "/summaries/18.html",
-      "image_file": "/images/most-expensive-homes.png",
+      "image_file": "/images/most-expensive-homes.webp",
       "published": 1,
       "featured": 1,
       "created_at": "2025-04-30T19:51:33.000Z",
-      "updated_at": "2025-04-30T19:51:33.000Z"
+      "updated_at": "2025-05-16T21:43:02.000Z"
     },
     "o1ybhy": {
       "id": "o1ybhy",
@@ -116,11 +116,11 @@
         "Income"
       ],
       "summary_file": "/summaries/11.html",
-      "image_file": "/images/the-highest-income-states.png",
+      "image_file": "/images/the-highest-income-states.webp",
       "published": 1,
       "featured": 1,
       "created_at": "2025-04-17T20:41:43.000Z",
-      "updated_at": "2025-04-20T16:36:09.000Z"
+      "updated_at": "2025-05-16T21:43:13.000Z"
     },
     "ao2ukt": {
       "id": "ao2ukt",
@@ -132,11 +132,11 @@
         "Income"
       ],
       "summary_file": "/summaries/10.html",
-      "image_file": "/images/highest-income-counties.png",
+      "image_file": "/images/highest-income-counties.webp",
       "published": 1,
       "featured": 1,
       "created_at": "2025-04-17T17:51:30.000Z",
-      "updated_at": "2025-04-20T15:55:36.000Z"
+      "updated_at": "2025-05-16T21:43:24.000Z"
     }
   }
 }
